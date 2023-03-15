@@ -1,6 +1,11 @@
+import Navbar from "./Navbar"
+
 function App() {
   return (
-    <h1>Init</h1>
+    <>
+      {/* <Navbar /> */}
+      <h1>Home main screen</h1>
+    </>
   );
 }
 
