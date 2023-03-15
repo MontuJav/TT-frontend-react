@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       {/* <Navbar /> */}
-      <h1>Home main screen test</h1>
+      <h1>Home main screen</h1>
     </>
   );
 }
